@@ -1,0 +1,12 @@
+body{
+  background-image: url('./img/fundo.png');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center bottom;
+  font-family: 'Inter', sans-serif;
+  color: #5A5773;
+  display: flex;
+  justify-content: center;
+}
+
+
